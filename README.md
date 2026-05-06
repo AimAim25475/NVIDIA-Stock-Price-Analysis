@@ -1,4 +1,3 @@
-# NVIDIA-Stock-Price-Analysis
 # NVIDIA Stock Price Analysis
 
 A data science project analysing NVIDIA Corporation (NVDA) stock prices from 2015 to 2024, combining historical price data with macroeconomic event data to explore patterns and build predictive regression models.
@@ -8,7 +7,6 @@ A data science project analysing NVIDIA Corporation (NVDA) stock prices from 201
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Team Members](#team-members)
 - [Datasets](#datasets)
 - [Project Structure](#project-structure)
 - [Methodology](#methodology)
